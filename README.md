@@ -11,7 +11,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
 Links to the privacy policy of third-party service providers used by the app:
-* [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+* [Google Analytics for Firebase](https://www.google.com/analytics/terms)
 
 ### Log Data
 
