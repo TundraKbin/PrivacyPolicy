@@ -38,4 +38,4 @@ The current iteration of this policy is effective as of August 14, 2023.
 
 ## Contact Us
 
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to reach out to us by contact@tigretechllc.com.
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to reach out to us by <contact@tigretechllc.com>.
